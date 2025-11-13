@@ -9,7 +9,8 @@ const Contact = () => {
     user_name: '',
     user_email: '',
     user_phone: '',
-    message: ''   
+    message: '',
+    text:''   
   });
 
   const form = useRef();
